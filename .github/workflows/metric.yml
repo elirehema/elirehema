@@ -17,7 +17,7 @@ jobs:
 
           # Options
           user: elirehema
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Dar_es_Salaam
           plugin_followup: yes
