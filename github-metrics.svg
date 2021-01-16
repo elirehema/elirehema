@@ -302,14 +302,14 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Sat, 16 Jan 2021 11:36:09 GMT
+Last generated: Sat, 16 Jan 2021 12:28:02 GMT
 </div>
 <div class="stdin"><span class="ps1-path">elirehema@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Elirehema Paul</b> registered=3y, uid=7048, gid=2
   contributed to 9 repositories <b><span style="color:#216e39">#</span><span style="color:#40c463">#</span><span style="color:#40c463">#</span><span style="color:#30a14e">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span></b>
   followed by <b>22</b> users
 </div>
 <div class="stdin"><span class="ps1-path">elirehema@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1759</b> commits
+  <b> 1760</b> commits
   <b>   12</b> pull requests reviewed
   <b>  761</b> pull requests opened
   <b>   16</b> issues opened
@@ -346,18 +346,18 @@ dr-x         LICENSE
 </div>
 <div class="stdin"><span class="ps1-path">elirehema@metrics</span>:<span class="ps1-location">~</span># curl -vI https://ospic.github.io/webapp/#/</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://ospic.github.io/webapp/#/
-<b>X-Performance</b>: 85%
+<b>X-Performance</b>: 86%
 <b>X-Accessibility</b>: 89%
 <b>X-Best-Practices</b>: 93%
 <b>X-SEO</b>: 100%
-<b>&gt; Time to interactive</b>: 1.73s (ok +)
-<b>&gt; Speed Index</b>: 1.472s (ok +)
-<b>&gt; Total Blocking Time</b>: 0.058s (ok +)
-<b>&gt; First Contentful Paint</b>: 1.328s (ok +)
-<b>&gt; Largest Contentful Paint</b>: 1.748s (ok +)
-<b>&gt; Cumulative Layout Shift</b>: 0.00016108805416922045 (ok +)
+<b>&gt; Time to interactive</b>: 1.795s (ok +)
+<b>&gt; Speed Index</b>: 1.533s (ok +)
+<b>&gt; Total Blocking Time</b>: 0.134s (ok +)
+<b>&gt; First Contentful Paint</b>: 1.348s (ok +)
+<b>&gt; Largest Contentful Paint</b>: 1.784s (ok +)
+<b>&gt; Cumulative Layout Shift</b>: 0.00014936695560809036 (ok +)
 </div>
-<footer>Connection reset by 238.12.42.77</footer></pre>
+<footer>Connection reset by 218.44.43.105</footer></pre>
 
       <div id="metrics-end"></div>
     </div>
