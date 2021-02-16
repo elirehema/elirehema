@@ -20,6 +20,10 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Dar_es_Salaam
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
           plugin_followup: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -28,8 +32,3 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: https://app.ospicx.com
-          plugin_posts: yes
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          plugin_stars: yes
-          plugin_stars_limit: 4
