@@ -3,7 +3,7 @@
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7098524)](https://stackoverflow.com/users/7098524/eli)&nbsp;<img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=elirehema&badges=3&--badge-margin=1px&branding=false&layout=horizontal&show-avatar=true&style=--header-bg-color:%2300A756;--border-radius:3px;--name-font-weight:bold;--name-font-size:11.5px;--header-padding:1px;--badge-rank-font-size:0.2em;--badge-location-font-size:0.2em;--badge-technology-font-size:5px;width:300px;--avatar-size:30px;--score-font-size:12px;"
 />
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eli)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- ![Profile Metrics](https://github.com/elirehema/elirehema/blob/master/github-metrics.svg)-->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elirehema-paul-3755b4124)
 [<img src="https://img.shields.io/github/followers/elirehema?label=follow&style=social" height="22" title="Follow me" />](https://github.com/elirehema) 
