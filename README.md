@@ -5,13 +5,11 @@
 />](https://profile.codersrank.io/user/elirehema/asOthersSee/)
 
 <!-- ![Profile Metrics](https://github.com/elirehema/elirehema/blob/master/github-metrics.svg)-->
-
+[![Twitter](https://img.shields.io/twitter/follow/elixml?label=Follow&style=social)](https://www.instagram.com/elixml)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elirehemapaulo@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elirehema-paul-3755b4124)
 [<img src="https://img.shields.io/github/followers/elirehema?label=follow&style=social" height="22" title="Follow me" />](https://github.com/elirehema) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/elixmli)
-
-[![Instagram](https://img.shields.io/twitter/follow/elixml?label=Follow&style=social)](https://www.instagram.com/elixml)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elirehemapaulo@gmail.com)
 
 
 
