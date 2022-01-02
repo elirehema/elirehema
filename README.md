@@ -11,7 +11,7 @@ I'm Elirehema Paul, Full-Stack software engineer
 [<img src="https://img.shields.io/github/followers/elirehema?label=follow&style=social" height="22" title="Follow me" />](https://github.com/elirehema) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/elixmli)
 
-### 💬 Tech Stack
+## 💬 Tech Stack
 
  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -23,4 +23,4 @@ I'm Elirehema Paul, Full-Stack software engineer
  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
  
-
+[More...](https://dev.page/elirehema)
