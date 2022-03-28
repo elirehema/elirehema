@@ -29,4 +29,10 @@ I'm Elirehema Paul, Full-Stack software engineer
  - Android Developer resume: [Click Here](https://docs.google.com/document/d/1uL5RaIIwiAq4Ycy_XmvshP0Z1UEkoczQdfIRQWW_0z4/edit?usp=sharing)
  - VueJs developer resume: [Click Here](https://docs.google.com/document/d/11ahbkhyYIoZ7yZX2MVfPuAnJkd8BfzDAwNZA06zihPA/edit?usp=sharing)
  
+ ## 💻 Developer social accounts
+ - [Stack Overflow](https://stackoverflow.com/users/7098524/eli)
+ - [Hackers Rank](https://www.hackerrank.com/elirehemapaulo?h_r=internal-search&hr_r=1)
+ - [CodersRank](https://cv.codersrank.io/elirehema)
+ - [LinkedIn](linkedin.com/in/elirehema)
+ - 
 [More...](https://dev.page/elirehema)
