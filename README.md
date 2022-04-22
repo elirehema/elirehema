@@ -24,11 +24,12 @@ I'm Elirehema Paul, Full-Stack software engineer
  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
  
  ## 🪟 Resumes
- I've devided my resume in sections to find your suitable one:
- - Full Resume: [Click here](https://docs.google.com/document/d/1VIehoZ4DlCa_uIbCen1RZxcbsnczNKpQkwpk_v7AI_4/edit?usp=sharing)
- - Backedn Developer resume: [Click Here](https://docs.google.com/document/d/1TRv1pngalXbCrdB3mrGl6iEfJCbj4IoBzNaX7Jnn4Sc/edit?usp=sharing)
- - Android Developer resume: [Click Here](https://docs.google.com/document/d/1uL5RaIIwiAq4Ycy_XmvshP0Z1UEkoczQdfIRQWW_0z4/edit?usp=sharing)
- - VueJs developer resume: [Click Here](https://docs.google.com/document/d/11ahbkhyYIoZ7yZX2MVfPuAnJkd8BfzDAwNZA06zihPA/edit?usp=sharing)
+ I've shared the link to my resume:
+ - My Resume: [Click here](https://docs.google.com/document/d/1VIehoZ4DlCa_uIbCen1RZxcbsnczNKpQkwpk_v7AI_4/edit?usp=sharing)
+<!-- Backedn Developer resume: [Click Here](https://docs.google.com/document/d/1TRv1pngalXbCrdB3mrGl6iEfJCbj4IoBzNaX7Jnn4Sc/edit?usp=sharing)
+--Android Developer resume: [Click Here](https://docs.google.com/document/d/1uL5RaIIwiAq4Ycy_XmvshP0Z1UEkoczQdfIRQWW_0z4/edit?usp=sharing)
+--VueJs developer resume: [Click Here](https://docs.google.com/document/d/11ahbkhyYIoZ7yZX2MVfPuAnJkd8BfzDAwNZA06zihPA/edit?usp=sharing)
+-->
  
  ## 💻 Developer social accounts
  - [Stack Overflow](https://stackoverflow.com/users/7098524/eli)
