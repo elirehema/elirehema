@@ -2,6 +2,11 @@
 ## Hi there 👋🏾
 I'm Elirehema Paul, Full-Stack software engineer
 
+## Skills
+Java, Spring, Golang, Spring-boot, ExpressJs, Go, NodeJs, REST API, Docker, Kubernetes, MySQL, NoSQL, MongoDB, Apache-Kafka, Rabbit-MQ, Apache-Fineract, PM2. Kotlin, Android, Flutter, Android-SSR. Javascript, NuxtJs, VuetifyJs. Pinia, Git, Github, Github-actions, CICD’s, Microservices, FlutterWave, Android libraries
+
+## Github
+
 ![](https://github-readme-stats.vercel.app/api?username=elirehema&bg_color=30,2CB673,2F4454&title_color=fff&text_color=fff&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=30)
 
 ## 📫 How to find me
