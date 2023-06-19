@@ -10,7 +10,7 @@ Java, Spring, Golang, Spring-boot, ExpressJs, Go, NodeJs, REST API, Docker, Kube
 ![](https://github-readme-stats.vercel.app/api?username=elirehema&bg_color=30,2CB673,2F4454&title_color=fff&text_color=fff&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=30)
 
 ## 📫 How to find me
-[![Twitter](https://img.shields.io/twitter/follow/elixml?label=Follow&style=social)](https://www.instagram.com/elixml)
+[![Twitter](https://img.shields.io/twitter/follow/elixml?label=Follow&style=social)](https://www.twitter.com/elixml)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elirehemapaulo@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elirehema)
 [<img src="https://img.shields.io/github/followers/elirehema?label=follow&style=social" height="22" title="Follow me" />](https://github.com/elirehema) 
